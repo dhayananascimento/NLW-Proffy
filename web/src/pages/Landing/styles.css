@@ -6,6 +6,8 @@
     align-items: center;
     justify-content: center;
 
+    overflow-y: auto;
+
     color: var(--color-text-in-primary);
     background: var(--color-primary);
 }
